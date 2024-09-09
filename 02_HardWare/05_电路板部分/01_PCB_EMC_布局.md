@@ -2,6 +2,16 @@
  * @Author: Connor2Chen 397080067@qq.com
  * @Date: 2024-09-05 17:47:47
  * @LastEditors: Connor2Chen 397080067@qq.com
+ * @LastEditTime: 2024-09-09 10:54:18
+ * @FilePath: \Learning-Note\02_HardWare\05_电路板部分\01_PCB_EMC_布局.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
+-->
+<!--
+ * @Author: Connor2Chen 397080067@qq.com
+ * @Date: 2024-09-05 17:47:47
+ * @LastEditors: Connor2Chen 397080067@qq.com
  * @LastEditTime: 2024-09-09 10:52:03
  * @FilePath: \Learning-Note\02_HardWare\05_电路板部分\01_PCB_EMC_布局.md
  * @Description: 
