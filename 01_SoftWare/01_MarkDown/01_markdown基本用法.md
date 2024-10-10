@@ -2,7 +2,7 @@
  * @Author: Connor2Chen 397080067@qq.com
  * @Date: 2024-09-05 11:05:34
  * @LastEditors: Connor2Chen 397080067@qq.com
- * @LastEditTime: 2024-09-09 08:50:40
+ * @LastEditTime: 2024-10-10 15:45:41
  * @FilePath: \Learning-Note\01_SoftWare\01_MarkDown\01_markdown基本用法.md
  * @Description: 
  * 学习自
@@ -33,8 +33,10 @@
 ## 三、强调
     斜体使用在文本两端各加一个 * 号；
     加粗则在文本两端各加两个 * 号；
+    
     下划线利用<u> </u>;
-如 *A* **B** <u>C</u>
+    上划线利用$\bar{}$
+如 *A*    **B**    <u>C</u>    $\bar{a}$
 
 ---
 
