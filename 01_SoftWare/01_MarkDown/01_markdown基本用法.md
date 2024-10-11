@@ -36,7 +36,8 @@
     
     下划线利用<u> </u>;
     上划线利用$\bar{}$
-如 *A*    **B**    <u>C</u>    $\bar{a}$
+    长句上划线用$\overline{}$
+如 *A*    **B**    <u>C</u>    $\bar{a}$   $\overline{A}$
 
 ---
 
