@@ -2,7 +2,7 @@
  * @Author: Connor2Chen 397080067@qq.com
  * @Date: 2024-09-05 11:05:34
  * @LastEditors: Connor2Chen 397080067@qq.com
- * @LastEditTime: 2024-10-10 15:45:41
+ * @LastEditTime: 2024-10-12 16:05:52
  * @FilePath: \Learning-Note\01_SoftWare\01_MarkDown\01_markdown基本用法.md
  * @Description: 
  * 学习自
@@ -81,6 +81,7 @@ $$
 <br>4.累乘        \prod_{}^{}{}
 <br>5.开方        \sqrt{}
 <br>6.积分        \int_{}^{}{}
+<br>7.头上来个点  \dot{}
 ---
 
 ## 七、表格
